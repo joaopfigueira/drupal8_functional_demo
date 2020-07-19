@@ -1,0 +1,6 @@
+name: Functional tests Demo Module
+description: Functional tests Demo Module.
+package: Custom
+
+type: module
+core: 8.x

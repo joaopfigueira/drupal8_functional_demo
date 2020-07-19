@@ -1,0 +1,7 @@
+gamification.settings:
+  path: '/admin/config/system/drupal8_functional_demo'
+  defaults:
+    _form: 'Drupal\drupal8_functional_demo\Form\FunctionalDemoForm'
+    _title: 'Drupal 8 Functional tests demo'
+  requirements:
+    _permission: 'administer site configuration'
